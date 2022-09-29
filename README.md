@@ -19,10 +19,9 @@ If you use the differentiable-tebd package or any of our numerical results, plea
 ```
 @article{wilde_scalably_2022,
 	title = {Scalably learning quantum many-body {Hamiltonians} from dynamical data},
-	journal = {arXiv:2203.15846},
-	author = {},
-	month = ,
+	journal = {arXiv:},
+	author = {Wilde, Frederik and Kshetrimayum, Augustine and Roth, Ingo and Hangleiter, Dominik and Sweke, Ryan and Eisert, Jens},
 	year = {2022},
-	note = {arXiv: },
+	note = {arXiv:},
 }
 ```
