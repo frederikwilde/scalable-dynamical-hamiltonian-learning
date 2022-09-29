@@ -1,4 +1,6 @@
 .vscode
+*.hdf5
+*.pdf
 
 # Output files
 *.out
