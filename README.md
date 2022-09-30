@@ -1,4 +1,4 @@
-# Code and Data for our Paper: [Scalably learning quantum many-body Hamiltonians from dynamical data](https://www.arxiv.org/abs/???)
+# Code and Data for our Paper: [Scalably learning quantum many-body Hamiltonians from dynamical data](https://arxiv.org/abs/2209.14328)
 This repository serves as a reference point on how to use the code used in our paper.
 It also contains instructions on how to inspect or reproduce our numerical results.
 
@@ -17,11 +17,13 @@ Therefore, the total size of the data repository is about 100GB.
 ## Citing
 If you use the differentiable-tebd package or any of our numerical results, please cite our paper.
 ```
-@article{wilde_scalably_2022,
-	title = {Scalably learning quantum many-body {Hamiltonians} from dynamical data},
-	journal = {arXiv:},
-	author = {Wilde, Frederik and Kshetrimayum, Augustine and Roth, Ingo and Hangleiter, Dominik and Sweke, Ryan and Eisert, Jens},
-	year = {2022},
-	note = {arXiv:},
+@misc{wilde_scalably_2022,
+  doi = {10.48550/ARXIV.2209.14328},
+  url = {https://arxiv.org/abs/2209.14328},
+  author = {Wilde, Frederik and Kshetrimayum, Augustine and Roth, Ingo and Hangleiter, Dominik and Sweke, Ryan and Eisert, Jens},
+  title = {Scalably learning quantum many-body Hamiltonians from dynamical data},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
