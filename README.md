@@ -1,10 +1,9 @@
-# Code and Data for our Paper: [Scalably learning quantum many-body Hamiltonians from dynamical data](https://arxiv.org/abs/2209.14328)
+# Code and Data for our Paper [Scalably learning quantum many-body Hamiltonians from dynamical data](https://arxiv.org/abs/2209.14328)
 This repository serves as a reference point on how to use the code used in our paper.
 It also contains instructions on how to inspect or reproduce our numerical results.
 
-## The Differentiable TEBD
-For our numerical analysis we developed a differentiable implementation of the TEBD.
-This is contained in the Github repository [differentiable-tebd](https://www.github.com/frederikwilde/differentiable-tebd).
+## The Differentiable TEBD Package
+For our numerical analysis we developed a differentiable implementation of the TEBD which is contained in the standalone Python package [differentiable-tebd](https://www.github.com/frederikwilde/differentiable-tebd).
 
 ### Demo
 This repository contains a brief [demo](https://github.com/frederikwilde/scalable-dynamical-hamiltonian-learning/tree/main/demo) on how to generate synthetic measurement data and then learn the Hamiltonian from it.
