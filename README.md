@@ -9,9 +9,9 @@ For our numerical analysis we developed a differentiable implementation of the T
 This repository contains a brief [demo](https://github.com/frederikwilde/scalable-dynamical-hamiltonian-learning/tree/main/demo) on how to generate synthetic measurement data and then learn the Hamiltonian from it.
 
 ## Numerical Results
-The numerical results presented in the paper are contained in the data repository (to appear soon).
+The numerical results presented in the paper are contained in the [data repository](https://doi.org/10.5281/zenodo.7299942).
 To analyze the scaling of the error in the number of measurement samples we had to generate a large amount of synthetic data.
-Therefore, the total size of the data repository is about 100GB.
+Therefore, the total size of the data repository is about 80GB (37GB compressed).
 
 ## Citing
 If you use the differentiable-tebd package or any of our numerical results, please cite our paper.
