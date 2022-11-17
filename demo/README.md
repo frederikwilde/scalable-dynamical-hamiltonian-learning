@@ -1,5 +1,6 @@
 # Differentiable TEBD Tutorial
 This demo shows how to use the `differentiable-tebd` Python package to generate synthetic time evolution data from some Hamiltonian.
+It should take about 15min to set up and run.
 In the second step the Hamiltonian is learned from that data.
 The code contains comments and doc strings to explain each step.
 
